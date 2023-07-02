@@ -1,5 +1,4 @@
 # Minecraft server auto chat color
-
 <p>This is a Python program that automatically adds color to your Minecraft chat messages. By running this program in the background while playing Minecraft, you can enhance the visual appeal of your messages with the selected color.</p>
 
 # Usage
@@ -14,7 +13,6 @@
 </ol>
 
 # Operation
-
 <p>Whenever you want to send a message, press the "T" key to open the chat and begin typing. The program will automatically insert the chosen color code at the start of your message.
 Press "Enter" to send the message. The program will remember if the chat is open or closed and reapply the color code accordingly. The allowed color codes and the format of the color codes can be different between servers. Please check the color format on your server before using this tool.</p>
 
@@ -25,4 +23,5 @@ Press "Enter" to send the message. The program will remember if the chat is open
 
 <p>Please note that the program runs in the background and requires Python to be active while you play Minecraft. Make sure to keep the program running for the automatic colorization to work.</p>
 
+<hr>
 <p>This program is intended for educational purposes and personal use. Make sure to abide by the rules and guidelines of the Minecraft servers you are playing on.</p>
