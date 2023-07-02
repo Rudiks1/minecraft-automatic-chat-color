@@ -1,9 +1,9 @@
 # Minecraft server auto chat color
-<p>This is a Python program that automatically adds color to your Minecraft chat messages. By running this program in the background while playing Minecraft, you can enhance the visual appeal of your messages with the selected color.</p>
+<p>This is a Python program that automatically adds color code before your Minecraft chat messages. By running this program in the background while playing Minecraft, you can enhance the visual appeal of your messages with the selected color. It is available in a CMD form and with a GUI too.</p>
 
 # Installing
 <ol>
-<li>Download the mcchatcolor.zip file and unpack it.
+<li>Download the "mcchatcolor base/mcchatcolor.zip" (CMD form) or "mcchatcolor GUI app/CMChatColor.zip" file and unpack it.
 <li>Run the program by executing the "MC Chat Color.exe" file.</li>
 <li>Type in the chosen color code/select the color code.</li>
 <li>Start Minecraft and join a server.</li>
