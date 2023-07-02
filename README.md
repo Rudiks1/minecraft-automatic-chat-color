@@ -4,7 +4,7 @@
 # Installing
 <ol>
 <li>Download the mcchatcolor.zip file and unpack it.
-<li>Run the program by executing the mcchatcolor.exe file.</li>
+<li>Run the program by executing the "MC Chat Color.exe" file.</li>
 <li>Type in the chosen color code.</li>
 <li>Start Minecraft and join a server.</li>
 </ol>
