@@ -9,6 +9,7 @@
 <li>Install the required dependencies using the following command in your CMD: pip install keyboard</li>
 <li>Open a terminal or command prompt and navigate to the directory where autocolorchat.py is located.</li>
 <li>Run the program by executing the following command: python autocolorchat.py</li>
+<li>Type in the chosen color code.</li>
 <li>Start Minecraft and join a server.</li>
 </ol>
 
