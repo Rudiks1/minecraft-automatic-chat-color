@@ -10,7 +10,9 @@
 </ol>
 
 # Preview
-<img src="preview/preview1.png">
+<div align=center>
+  <img src="preview/preview1.png">
+</div>
 
 # Installing for development purposes
 <ol>
